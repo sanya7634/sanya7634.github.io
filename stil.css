@@ -1,0 +1,175 @@
+@font-face {
+	font-family:'Diary of an 8-bit mage'; 
+ 	src:url('../sait/fonts/Diary of an 8-bit mage/Diary of an 8-bit mage.eot');
+ 	src:url('../sait/fonts/Diary of an 8-bit mage/Diary of an 8-bit mage.eot?#iefix') format('embedded-opentype'),
+	 	url('../sait/fonts/Diary of an 8-bit mage/Diary of an 8-bit mage.woff') format('woff'),
+	 	url('../sait/fonts/Diary of an 8-bit mage/Diary of an 8-bit mage.ttf') format('truetype'),
+ 		url('../sait/fonts/Diary of an 8-bit mage/Diary of an 8-bit mage.otf') format('opentype');
+ 		font-weight: normal;
+   		font-style: normal;
+	}
+	@font-face {
+	font-family:'Pokemon Classic'; 
+ 	src:url('../sait/fonts/Pokemon Classic/Pokemon Classic.eot');
+ 	src:url('../sait/fonts/Pokemon Classic/Pokemon-Classic.eot?#iefix') format('embedded-opentype'),
+	 	url('../sait/fonts/Pokemon Classic/Pokemon-Classic.woff') format('woff'),
+	 	url('../sait/fonts/Pokemon Classic/Pokemon-Classic.ttf') format('truetype'),
+ 		url('../sait/fonts/Pokemon Classic/Pokemon-Classic.otf') format('opentype');
+ 		font-weight: normal;
+   		font-style: normal;
+	}
+.glav{
+	font-family:'Diary of an 8-bit mage';
+	font-size:20px;
+	line-height: 25px;
+}
+h1{
+	font-family:'Pokemon classic';
+}
+.pic{
+	position: relative;
+	width: 0px;
+  	height: 0px;
+	left: 283px;
+	bottom: 63px;
+
+
+}
+.pic2{
+	position: relative;
+	width: 0px;
+  	height: 0px;
+	right: -900px;
+	bottom:63px;
+}
+ul{
+	list-style-image:url(strelka.png);
+	font-family:'Diary of an 8-bit mage';
+}
+.rim{
+	position: relative;
+	width: 0px;
+  	height: 0px;
+	left: 300px;
+	bottom: 50px
+}
+#ob {
+    width: 1220px; /* Ширина слоя */
+    margin: auto; /* Значение отступов */
+    padding: 10px; /* Поля вокруг текста */
+    border: 4px solid black; /* Параметры границы */
+    background: #fc0; /* Цвет фона */
+}
+    #pob{
+    	 width: auto;
+ 		background:url(https://giffiles.alphacoders.com/220/2203.gif); /* Цвет фона */
+}
+  .fac{
+  	position: relative;
+  	width: 0px;
+  	height: 0px;
+  	left: 500px;
+  	bottom: 87px;
+  }
+  .pc{
+  	position: relative;
+  	width: 0px;
+  	height: 0px;
+  	left:380px;
+  	bottom: 80px;
+  }
+  .ter{
+  	position: relative;
+  	width: 0px;
+  	height: 0px;
+  	left:480px;
+  	bottom: 80px;
+  }
+.pa{
+	position: relative;
+	width: 0px;
+  	height: 0px;
+  	left:540px;
+  	bottom: 75px
+}
+	body, html {
+    height: 100%;
+}
+
+.parallax {
+
+    background-image: url('fon1.jpg');
+    height: 40%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+ .parallax1 {
+
+    background-image: url('fon2.jpg');
+    height: 40%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+  .parallax2 {
+
+    background-image: url('fon3.png');
+    height: 40%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .stim{
+    position: relative;
+	width: 0px;
+  	height: 0px;
+  	left:630px;
+  	bottom: 46px
+    }
+     .stim1{
+    position: relative;
+	width: 0px;
+  	height: 0px;
+  	left:830px;
+  	bottom: 48px
+    }
+      .stim2{
+    position: relative;
+	width: 0px;
+  	height: 0px;
+  	left:505px;
+  	bottom: 46px
+    }
+      .stim3{
+    position: relative;
+	width: 0px;
+  	height: 0px;
+  	left:700px;
+  	bottom: 51px
+    }
+       .stim4{
+    position: relative;
+	width: 0px;
+  	height: 0px;
+  	left:815px;
+  	bottom: 51px
+    }
+.spoiler{
+	position: relative;
+
+	font-family:'Diary of an 8-bit mage';
+	font-size:20px;
+	text-indent: 30px;
+	margin-top:-18px;
+}
+.otstup{
+	text-indent: 20px;
+	font-family:'Diary of an 8-bit mage';
+	font-size:20px;
+	line-height: 25px;
+}
+
